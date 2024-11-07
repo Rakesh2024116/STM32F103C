@@ -1,0 +1,51 @@
+Dependencies for Project 'USART_Lib', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6210000::V6.21::ARMCLANG
+F (.\USART.h)(0x66F12976)()
+F (.\USART.c)(0x66F137BF)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C6-I./RTE/_Target_1-IC:/Users/Asus/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Asus/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o ./objects/usart.o -MD)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x663F6646)
+I (RTE\_Target_1\RTE_Components.h)(0x6687C613)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569D33A)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569D338)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x663F6646)
+F (..\Project_3\gpio_driver.c)(0x667BD01A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C6-I./RTE/_Target_1-IC:/Users/Asus/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Asus/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o ./objects/gpio_driver.o -MD)
+I (..\Project_3\gpio_driver.h)(0x66F12946)
+F (..\Project_3\gpio_driver.h)(0x66F12946)()
+F (.\systick_time.h)(0x66F12AD3)()
+F (.\systick_time.c)(0x66F12AD5)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C6-I./RTE/_Target_1-IC:/Users/Asus/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Asus/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o ./objects/systick_time.o -MD)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x663F6646)
+I (RTE\_Target_1\RTE_Components.h)(0x6687C613)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569D33A)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569D338)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x663F6646)
+I (systick_time.h)(0x66F12AD3)
+F (..\Project_3\main.c)(0x66F149E3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C6-I./RTE/_Target_1-IC:/Users/Asus/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Asus/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o ./objects/main.o -MD)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x663F6646)
+I (RTE\_Target_1\RTE_Components.h)(0x6687C613)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569D33A)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569D338)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x663F6646)
+I (..\Project_3\gpio_driver.h)(0x66F12946)
+F (RTE/Device/STM32F103C6/RTE_Device.h)(0x663F6649)()
+F (RTE/Device/STM32F103C6/startup_stm32f10x_ld.s)(0x663F6646)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103C6-I./RTE/_Target_1-IC:/Users/Asus/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Asus/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 539" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F10X_LD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_ld.o)
+F (RTE/Device/STM32F103C6/system_stm32f10x.c)(0x663F6646)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C6-I./RTE/_Target_1-IC:/Users/Asus/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Asus/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x663F6646)
+I (RTE\_Target_1\RTE_Components.h)(0x6687C613)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569D33A)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x663F68E8)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x663F68E8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569D338)
+I (C:\Users\Asus\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x663F6646)
